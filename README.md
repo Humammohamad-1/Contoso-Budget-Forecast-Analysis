@@ -44,11 +44,6 @@ The dataset follows a **star schema**, consisting of:
 ---
 
 ## 📸 Power BI Dashboard Preview
-![Budget Breakdown](images/image.png)
+![Budget Breakdown]![image](https://github.com/user-attachments/assets/d936fd9d-3b1e-4880-a379-50b7cee63d10)
 
----
 
-## 🚀 How to Run the Analysis
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/Budget-Forecast-Analysis.git
