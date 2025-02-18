@@ -38,9 +38,9 @@ The dataset follows a **star schema**, consisting of:
 ---
 
 ## 📸 Data Model Visualization
-*(Replace `images/your-image.png` with the actual image path after uploading it to your repo.)*
 
-![Data Model]![image](https://github.com/user-attachments/assets/2f4fa944-1791-441f-b124-b668c12a9677)
+![Data Model]![image](https://github.com/user-attachments/assets/4bc1a2bb-5c28-473d-8d4b-6a2fd6d3a897)
+
 
 
 
