@@ -44,6 +44,7 @@ The dataset follows a **star schema**, consisting of:
 ---
 
 ## 📸 Power BI Dashboard Preview
-![Budget Breakdown]![image](https://github.com/user-attachments/assets/d936fd9d-3b1e-4880-a379-50b7cee63d10)
+![Budget Breakdown]![image](https://github.com/user-attachments/assets/c4a822be-6633-42e6-a7b2-66257a1990fb)
+
 
 
