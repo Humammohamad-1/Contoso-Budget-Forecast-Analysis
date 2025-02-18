@@ -35,7 +35,16 @@ The dataset follows a **star schema**, consisting of:
 - **DimScenario**: Types of financial planning (Actual, Budget, Forecast).
 
 ---
+---
 
+## 📸 Data Model Visualization
+*(Replace `images/your-image.png` with the actual image path after uploading it to your repo.)*
+
+![Data Model]![image](https://github.com/user-attachments/assets/2f4fa944-1791-441f-b124-b668c12a9677)
+
+
+
+---
 ## 📈 Key Insights from the Data
 
 ### **1️⃣ Budget vs. Forecast vs. Actual Analysis**
